@@ -1,0 +1,5 @@
+As a player, I want to start a lemonade stand simulation to earn money
+As a player, I want to be able to set the price of lemonade so I can charge my customers the desired amount
+As a player, I want to set how much lemonade I want to make so I can decide what inventory I need
+As a player, I want to simulate customer purchases so I can see how much money I make
+As a player, I want to see my revenue, cost, and balance to figure out how I did
